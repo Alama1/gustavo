@@ -22,7 +22,8 @@
       "@shared/*": ["shared/*"],
       "@app/*": ["modules/app/*"],
       "@utils/*": ["utils/*"],
-      "@filters/*": ["filters/*"]
+      "@filters/*": ["filters/*"],
+      "@ai/*": ["modules/ai/*"]
     }
   }
 }
