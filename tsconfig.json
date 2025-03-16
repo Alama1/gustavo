@@ -23,7 +23,8 @@
       "@app/*": ["modules/app/*"],
       "@utils/*": ["utils/*"],
       "@filters/*": ["filters/*"],
-      "@ai/*": ["modules/ai/*"]
+      "@ai/*": ["modules/ai/*"],
+      "@discord/*": ["modules/discord/*"]
     }
   }
 }
